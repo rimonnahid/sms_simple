@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+  #footer li{
+  	padding-left:30px;
+  	list-style:none;
+  }
+  #footer li a{
+  	color:mistyrose;
+  }
+   #footer a:hover{
+  	
+  }
